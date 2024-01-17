@@ -1,0 +1,9 @@
+﻿LineMode;OperatorId;OperatorName;CO2e/voy/km
+train;800;SNCF - Transilien;4.7
+bus;100;RATP;98.0
+train;all;tous;4.1
+bus;all;tous;104.0
+train;100;RATP;2.6
+tramway;all;tous;2.2
+metro;all;tous;2.5
+bus;except 100;Sauf RATP;110.0

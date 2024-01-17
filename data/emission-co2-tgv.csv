@@ -1,0 +1,78 @@
+Type de trajet;Origine;Origine_uic;Destination;Destination_uic;Liaison;Distance (km);TGV (1 pers.) - Empreinte CO2e (kgCO2e/voyageur);TGV (3 pers.) - Empreinte CO2e (kgCO2e/voyageur);Voiture (autosolisme 1 pers.) - Empreinte CO2e (kgCO2e/voyageur);Voiture (covoiturage 3 pers.) - Empreinte CO2e (kgCO2e/voyageur)
+Paris/Province;Paris Gare de Lyon;87686006;Avignon TGV;87318964;Paris Gare de Lyon - Avignon TGV;661.02;1.7913642;5.3740926;127.57686;42.525619999999996
+Paris/Province;Paris Montparnasse;87391003;Brest;87474007;Paris Montparnasse - Brest;613.153;1.66164463;4.984933890000001;118.33852900000001;39.44617633333333
+Paris/Province;Paris Gare de Lyon;87686006;Dijon;87713040;Paris Gare de Lyon - Dijon;286.866;0.7774068599999999;2.3322205799999995;55.365138;18.455046
+Paris/Province;Paris Montparnasse;87391003;La Rochelle;87485003;Paris Montparnasse - La Rochelle;459.696;1.2457761600000001;3.7373284800000004;88.72132800000001;29.573776
+Paris/Province;Paris Gare du Nord;87271007;Lille Europe;87223263;Paris Gare du Nord - Lille Europe;225.249;0.61042479;1.83127437;43.473057;14.491018999999998
+Paris/Province;Paris Montparnasse;87391003;Lorient Bretagne Sud;87476002;Paris Montparnasse - Lorient Bretagne Sud;543.247;1.4721993699999998;4.416598109999999;104.84667099999999;34.94889033333333
+Paris/Province;Paris Gare de Lyon;87686006;Narbonne;87781104;Paris Gare de Lyon - Narbonne;836.205;2.26611555;6.798346649999999;161.387565;53.795854999999996
+Paris/Province;Paris Montparnasse;87391003;Pau;87672006;Paris Montparnasse - Pau;769.537;2.08544527;6.25633581;148.520641;49.506880333333335
+Paris/Province;Paris Gare de Lyon;87686006;Perpignan;87784009;Paris Gare de Lyon - Perpignan;900.334;2.43990514;7.31971542;173.764462;57.921487333333324
+Paris/Province;Paris Montparnasse;87391003;Saint-Nazaire;87481705;Paris Montparnasse - Saint-Nazaire;449.426;1.21794446;3.65383338;86.739218;28.913072666666665
+Paris/Province;Paris Montparnasse;87391003;Surgères;87485227;Paris Montparnasse - Surgères;426.425;1.15561175;3.46683525;82.300025;27.433341666666667
+Paris/Province;Paris Gare de Lyon;87686006;Aix-en-Provence TGV;87319012;Paris Gare de Lyon - Aix-en-Provence TGV;730.8;1.980468;5.9414039999999995;141.0444;47.014799999999994
+Paris/Province;Paris Montparnasse;87391003;Angers Saint-Laud;87484006;Paris Montparnasse - Angers Saint-Laud;298.371;0.80858541;2.4257562299999997;57.585603;19.195200999999997
+Paris/Province;Paris Gare du Nord;87271007;Arras;87342014;Paris Gare du Nord - Arras;178.733;0.48436642999999996;1.45309929;34.495469;11.498489666666666
+Paris/Province;Paris Gare de Lyon;87686006;Besançon Viotte;87718007;Paris Gare de Lyon - Besançon Viotte;376.439;1.02014969;3.0604490699999998;72.652727;24.21757566666667
+Paris/Province;Paris Gare de Lyon;87686006;Aix-les-Bains le Revard;87741132;Paris Gare de Lyon - Aix-les-Bains le Revard;507.392;1.37503232;4.1250969600000005;97.92665600000001;32.642218666666665
+Paris/Province;Paris Gare de Lyon;87686006;Béziers;87781005;Paris Gare de Lyon - Béziers;803.684;2.17798364;6.53395092;165.780631;55.260210333333326
+Paris/Province;Paris Montparnasse;87391003;Auray;87476200;Paris Montparnasse - Auray;508.723;1.37863933;4.135917989999999;98.18353900000001;32.72784633333333
+Paris/Province;Paris Montparnasse;87391003;Bordeaux Saint-Jean;87581009;Paris Montparnasse - Bordeaux Saint-Jean;537.13;1.4556223;4.3668669;103.66609;34.555363333333325
+Paris/Province;Paris Montparnasse;87391003;Bayonne;87673004;Paris Montparnasse - Bayonne;734.758;1.9911941800000001;5.973582540000001;141.808294;47.26943133333334
+Paris/Province;Paris Gare de Lyon;87686006;Bourg-en-Bresse;87743005;Paris Gare de Lyon - Bourg-en-Bresse;405.15;1.0979565;3.2938695;78.19395;26.064649999999997
+Paris/Province;Paris Gare de Lyon;87686006;Bellegarde;87745000;Paris Gare de Lyon - Bellegarde;469.429;1.27215259;3.8164577699999995;90.599797;30.19993233333333
+Paris/Province;Paris Est;87113001;Charleville-Mézières;87172007;Paris Est - Charleville-Mézières;233.827;0.63367117;1.9010135099999999;45.128611;15.042870333333333
+Paris/Province;Paris Gare de Lyon;87686006;Chambéry - Challes-les-Eaux;87741009;Paris Gare de Lyon - Chambéry - Challes-les-Eaux;531.951;1.4415872100000002;4.324761630000001;102.666543;34.222181
+Paris/Province;Paris Gare de Lyon;87686006;Dole;87713412;Paris Gare de Lyon - Dole;333.211;0.90300181;2.70900543;64.309723;21.436574333333333
+Paris/Province;Paris Montparnasse;87391003;Châtellerault;87575142;Paris Montparnasse - Châtellerault;286.992;0.77774832;2.33324496;55.389456;18.463151999999997
+Paris/Province;Paris Montparnasse;87391003;Hendaye;87677005;Paris Montparnasse - Hendaye;770.001;2.08670271;6.26010813;148.610193;49.53673099999999
+Paris/Province;Paris Gare de Lyon;87686006;Lyon Part Dieu;87723197;Paris Gare de Lyon - Lyon Part Dieu;429.496;1.16393416;3.4918024799999996;82.892728;27.630909333333328
+Paris/Province;Paris Montparnasse;87391003;Laval;87478404;Paris Montparnasse - Laval;290.806;0.78808426;2.36425278;56.125558;18.70851933333333
+Paris/Province;Paris Montparnasse;87391003;Poitiers;87575001;Paris Montparnasse - Poitiers;320.044;0.8673192399999999;2.6019577199999997;61.768491999999995;20.58949733333333
+Paris/Province;Paris Montparnasse;87391003;Lourdes;87671339;Paris Montparnasse - Lourdes;808.411;2.1907938099999997;6.572381429999999;156.02332299999998;52.00777433333333
+Paris/Province;Paris Montparnasse;87391003;Quimper;87474098;Paris Montparnasse - Quimper;608.606;1.64932226;4.94796678;117.460958;39.15365266666666
+Paris/Province;Paris Montparnasse;87391003;Morlaix;87474338;Paris Montparnasse - Morlaix;553.506;1.50000126;4.50000378;106.826658;35.608886
+Paris/Province;Paris Montparnasse;87391003;Rennes;87471003;Paris Montparnasse - Rennes;363.952;0.9863099200000001;2.95892976;70.24273600000001;23.414245333333334
+Paris/Province;Paris Gare de Lyon;87686006;Moûtiers - Salins - Brides-les-Bains;87741728;Paris Gare de Lyon - Moûtiers - Salins - Brides-les-Bains;608.338;1.6485959799999998;4.94578794;117.409234;39.13641133333333
+Paris/Province;Paris Montparnasse;87391003;Saint-Pierre-des-Corps;87571240;Paris Montparnasse - Saint-Pierre-des-Corps;220.721;0.59815391;1.7944617299999999;42.599153;14.199717666666665
+Paris/Province;Paris Est;87113001;Mulhouse;87182063;Paris Est - Mulhouse;507.296;1.37477216;4.12431648;97.90812799999999;32.63604266666666
+Paris/Province;Paris Montparnasse;87391003;Vannes;87476606;Paris Montparnasse - Vannes;489.554;1.3266913399999998;3.980074019999999;94.48392199999999;31.494640666666662
+Paris/Province;Paris Est;87113001;Nancy;87141002;Paris Est - Nancy;328.4;0.889964;2.669892;63.3812;21.12706666666666
+Paris/Province;Paris Gare de Lyon;87686006;Nîmes;87775007;Paris Gare de Lyon - Nîmes;689.052;1.8673309200000001;5.60199276;132.987036;44.32901199999999
+Paris/Province;Paris Montparnasse;87391003;Niort;87485300;Paris Montparnasse - Niort;392.417;1.0634500699999998;3.190350209999999;75.736481;25.24549366666666
+Paris/Province;Paris Est;87113001;Reims;87171009;Paris Est - Reims;146.156;0.39608276000000003;1.18824828;28.208108;9.402702666666666
+Paris/Province;Paris Montparnasse;87391003;Saint-Brieuc;87473009;Paris Montparnasse - Saint-Brieuc;465.243;1.26080853;3.78242559;89.791899;29.930632999999997
+Paris/Province;Paris Gare de Lyon;87686006;Saint-Raphaël;87757526;Paris Gare de Lyon - Saint-Raphaël;908.65;2.4624414999999997;7.387324499999999;175.36944999999997;58.45648333333333
+Paris/Province;Paris Montparnasse;87391003;Toulouse Matabiau;87611004;Paris Montparnasse - Toulouse Matabiau;793.993;2.15172103;6.45516309;153.24064900000002;51.08021633333333
+Paris/Province;Paris Gare du Nord;87271007;Valenciennes;87343004;Paris Gare du Nord - Valenciennes;236.846;0.64185266;1.9255579799999998;45.711278;15.237092666666666
+Paris/Province;Paris Montparnasse;87391003;Agen;87586008;Paris Montparnasse - Agen;672.621;1.8228029099999998;5.468408729999999;129.815853;43.271950999999994
+Paris/Province;Paris Montparnasse;87391003;Angoulême;87583005;Paris Montparnasse - Angoulême;428.202;1.16042742;3.48128226;82.64298600000001;27.547661999999995
+Paris/Province;Paris Est;87113001;Colmar;87182014;Paris Est - Colmar;516.397;1.39943587;4.1983076100000005;99.66462100000001;33.22154033333333
+Paris/Province;Paris Gare du Nord;87271007;Dunkerque;87281006;Paris Gare du Nord - Dunkerque;305.357;0.8275174700000001;2.4825524100000003;58.933901000000006;19.644633666666667
+Paris/Province;Paris Montparnasse;87391003;Guingamp;87473207;Paris Montparnasse - Guingamp;495.431;1.3426180099999998;4.027854029999999;95.61818299999999;31.872727666666663
+Paris/Province;Paris Gare de Lyon;87686006;Le Creusot - Montceau-les-Mines - Montchanin TGV;87694109;Paris Gare de Lyon - Le Creusot - Montceau-les-Mines - Montchanin TGV;305.476;0.82783996;2.4835198800000002;58.956868;19.652289333333332
+Paris/Province;Paris Est;87113001;Metz;87192039;Paris Est - Metz;314.09;0.8511838999999999;2.5535517;60.619369999999996;20.206456666666664
+Paris/Province;Paris Gare de Lyon;87686006;Saint-Étienne Châteaucreux;87726000;Paris Gare de Lyon - Saint-Étienne Châteaucreux;488.772;1.32457212;3.97371636;94.332996;31.444332
+Paris/Province;Paris Est;87113001;Strasbourg;87212027;Paris Est - Strasbourg;450.58;1.2210718;3.6632154000000003;86.96194;28.987313333333333
+Paris/Province;Paris Est;87113001;Thionville;87191007;Paris Est - Thionville;343.568;0.9310692799999999;2.7932078399999996;66.308624;22.10287466666666
+Paris/Province;Paris Gare de Lyon;87686006;Toulon;87755009;Paris Gare de Lyon - Toulon;814.541;2.20740611;6.62221833;157.206413;52.40213766666667
+Paris/Province;Paris Gare de Lyon;87686006;Annecy;87746008;Paris Gare de Lyon - Annecy;546.908;1.48212068;4.44636204;105.553244;35.18441466666666
+Paris/Province;Paris Gare de Lyon;87686006;Antibes;87757674;Paris Gare de Lyon - Antibes;951.71;2.5791341;7.7374023;183.68003;61.22667666666667
+Paris/Province;Paris Montparnasse;87391003;Biarritz;87673400;Paris Montparnasse - Biarritz;744.496;2.0175841599999997;6.052752479999999;143.687728;47.89590933333333
+Paris/Province;Paris Gare de Lyon;87686006;Bourg-Saint-Maurice;87741793;Paris Gare de Lyon - Bourg-Saint-Maurice;636.89;1.7259719;5.1779157;122.91977;40.973256666666664
+Paris/Province;Paris Gare de Lyon;87686006;Cannes;87757625;Paris Gare de Lyon - Cannes;940.691;2.54927261;7.64781783;181.55336300000002;60.51778766666666
+Paris/Province;Paris Montparnasse;87391003;Dax;87673202;Paris Montparnasse - Dax;684.662;1.8554340200000001;5.56630206;132.139766;44.046588666666665
+Paris/Province;Paris Gare du Nord;87271007;Douai;87345009;Paris Gare du Nord - Douai;204.104;0.55312184;1.65936552;39.392072;13.130690666666668
+Paris/Province;Paris Gare de Lyon;87686006;Grenoble;87747006;Paris Gare de Lyon - Grenoble;556.09;1.5070039000000002;4.521011700000001;107.32537;35.775123333333326
+Paris/Province;Paris Montparnasse;87391003;La Baule-Escoublac;87481754;Paris Montparnasse - La Baule-Escoublac;465.732;1.26213372;3.78640116;89.88627600000001;29.962092000000002
+Paris/Province;Paris Montparnasse;87391003;Le Mans;87396002;Paris Montparnasse - Le Mans;201.678;0.54654738;1.63964214;38.923854;12.974617999999998
+Paris/Province;Paris Gare du Nord;87271007;Lens;87345025;Paris Gare du Nord - Lens;197.942;0.53642282;1.60926846;38.202806;12.734268666666667
+Paris/Province;Paris Montparnasse;87391003;Libourne;87584052;Paris Montparnasse - Libourne;525.96;1.4253516000000002;4.276054800000001;101.51028000000001;33.836760000000005
+Paris/Province;Paris Gare de Lyon;87686006;Mâcon Loché TGV;87725705;Paris Gare de Lyon - Mâcon Loché TGV;365.637;0.99087627;2.97262881;70.567941;23.522646999999996
+Paris/Province;Paris Gare de Lyon;87686006;Marseille Saint-Charles;87751008;Paris Gare de Lyon - Marseille Saint-Charles;750.138;2.03287398;6.098621940000001;144.77663400000003;48.258877999999996
+Paris/Province;Paris Gare de Lyon;87686006;Montélimar;87764001;Paris Gare de Lyon - Montélimar;581.77;1.5765966999999999;4.7297901;112.28161;37.42720333333333
+Paris/Province;Paris Gare de Lyon;87686006;Montpellier Saint-Roch;87773002;Paris Gare de Lyon - Montpellier Saint-Roch;738.861;2.00231331;6.00693993;142.600173;47.533390999999995
+Paris/Province;Paris Montparnasse;87391003;Nantes;87481002;Paris Montparnasse - Nantes;385.841;1.0456291100000001;3.1368873300000004;74.46731299999999;24.822437666666666
+Paris/Province;Paris Gare de Lyon;87686006;Nice;87756056;Paris Gare de Lyon - Nice;971.68;2.6332527999999997;7.8997584;187.53423999999998;62.51141333333332
+Paris/Province;Paris Montparnasse;87391003;Saint-Malo;87478107;Paris Montparnasse - Saint-Malo;444.83;1.2054893;3.6164679;85.85219000000001;28.617396666666664
+Paris/Province;Paris Gare de Lyon;87686006;Valence TGV Rhône-Alpes Sud;87763029;Paris Gare de Lyon - Valence TGV Rhône-Alpes Sud;527.124;1.42850604;4.28551812;101.734932;33.911644
